@@ -1,6 +1,11 @@
 # LinkFree
 
-A free and open source alternative to LinkTree!
+A free and open source alternative to LinkTree made by michaelbarney!
+Thanks for letting us use your work!
+
+
+
+
 
 [Website](https://michaelbarney.github.io/LinkFree)
 
